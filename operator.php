@@ -4,7 +4,7 @@ $a = 5;
 $b = 3;
 $c = 5;
 $d = "5";
-
+ 
 echo "$a + $b = "; echo $a + $b; echo "<br>";
 echo "$a / $b = "; echo $a / $b; echo "<br>";
 echo "$a > $b : "; echo $a > $b; echo "<br>";
