@@ -2,7 +2,7 @@
 
     $nama = "Rifai Abdul Gani";
     $kelas = "4C";
-    $prodi = "D4 Teknik Informatika";
+    $prodi = "DIV Teknik Informatika";
 
     echo "<h1>Latihan Web Programming<h1><br>";
     echo $nama; echo "<br>";
